@@ -28,7 +28,7 @@
 
 .Livros{
     background-image: linear-gradient(#FAE4CC,#fae4cc);
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
 
 }
