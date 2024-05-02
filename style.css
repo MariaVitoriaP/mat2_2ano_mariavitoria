@@ -31,8 +31,13 @@
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .Livros-div-conteudo{
     width: 35%;
+}
+.Livros-titulo{
+    padding: 24px 0;
 }
