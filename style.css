@@ -58,3 +58,11 @@ body{
 .Quadrinhos-div{
     text-items: center;
 }
+.Quadrinhos-titulo{
+    text-align: center;
+    padding: 50% 0;
+}
+.Quadrinhos-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
