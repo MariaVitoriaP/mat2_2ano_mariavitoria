@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-body{
+body {
     .shadows-into-light-regular {
         font-family: "Shadows Into Light", cursive;
         font-weight: 400;
@@ -46,22 +46,29 @@ body{
 .Livros-div-conteudo{
     width: 35%;
 }
+
 .Livros-titulo{
     padding: 24px 0;
 }
+
 .Quadrinhos-imagem{
     width: 120px;
 }
+
 .Quadrinhos-icone{
     width: 24px;
 }
+
 .Quadrinhos-div{
-    text-items: center;
+    text-align: center;
+    padding: 16px 0;
 }
+
 .Quadrinhos-titulo{
     text-align: center;
     padding: 50% 0;
 }
+
 .Quadrinhos-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
