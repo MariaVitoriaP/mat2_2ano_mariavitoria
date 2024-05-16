@@ -30,11 +30,11 @@ body {
     font-size: 24px;
 }
 
-.Livros-imagem{
+.Inicio-imagem{
     width: 25%;
 }
 
-.Livros{
+.Inicio{
     background-image: linear-gradient(#FAE4CC,#fae4cc);
     color: rgb(0, 0, 0);
     display: flex;
@@ -43,33 +43,33 @@ body {
     padding: 24px 0;
 }
 
-.Livros-div-conteudo{
+.Inicio-div-conteudo{
     width: 35%;
 }
 
-.Livros-titulo{
+.Inicio-titulo{
     padding: 24px 0;
 }
 
-.Quadrinhos-imagem{
+.Livros-imagem{
     width: 120px;
 }
 
-.Quadrinhos-icone{
+.Livros-icone{
     width: 24px;
 }
 
-.Quadrinhos-div{
+.Livros-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.Quadrinhos-titulo{
+.Livros-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.Quadrinhos-todos{
+.Livros-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
